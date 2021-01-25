@@ -30,10 +30,4 @@ NSString * const UPProductTableViewCellNibName = @"UPProductTableViewCell";
     self.timeTitle.text = _cellViewModel.time;
 }
 
-- (void)awakeFromNib
-{
-
-}
-
-
 @end
