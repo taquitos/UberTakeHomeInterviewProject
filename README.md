@@ -6,11 +6,11 @@ UberProject
 ### API
 Things that assist with getting/sending data to the Uber API
 
-###Features
+### Features
 Higher-level features like "Ride Estimator", maybe we'd have "Settings" and "Login" if I were to flesh out this app more
-###Categories
+### Categories
 Various generic categories
-###Supporting Files
+### Supporting Files
 Files we need for every app (launch screen, info.plist, main.m, etc.)
 ###Frameworks
 Frameworks I used, in particular, my JSON mapper ([JLObjectMapping](https://github.com/taquitos/JLObjectMapping)). I included the source in this project for your perusal.
